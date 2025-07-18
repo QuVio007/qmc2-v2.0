@@ -41,3 +41,53 @@ Certificaciones
 ISO/IEC 62304:2025 (software grado médico)
 
 Validación térmica MIL-STD-810G (-40°C a 85°C)
+
+
+---
+
+### 📄 ARCHIVO: `photonic_generator_module.md`  
+📍 Ruta: `qmc2-v2.0/modules/photonic_generator_module.md`  
+📎 Contenido del archivo:
+
+```markdown
+# 🔦 Photonic Generator Module - QMC-2 v2.0
+
+## Descripción General
+
+El generador de fotones del QMC-2 utiliza puntos cuánticos (Quantum Dots) de InAs/GaAs con cavidades resonantes, integrados en un chip fotónico (PIC) de 1550nm, optimizado para telecomunicaciones cuánticas.
+
+---
+
+## Componentes
+
+| Elemento              | Especificación                       | Proveedor          |
+|-----------------------|---------------------------------------|--------------------|
+| Quantum Dots          | InAs/GaAs, eficiencia 65% @1550nm     | Quandela           |
+| PIC                   | Plataforma fotónica InP @1550nm       | LioniX International |
+| Driver óptico         | Modulación 10GHz, precisión ±0.2nm    | IDQ / Custom       |
+
+---
+
+## Características Técnicas
+
+- Tasa de generación: 10⁸ fotones/s
+- Distribución espectral: 1548.9 – 1551.2nm
+- Entrelazamiento: Fidelidad ≥99.97%
+- Interfaz con red: UWB 802.15.4z modificado
+
+---
+
+## Validaciones
+
+- Test de Bell (S≥2.8)
+- Certificación IEEE Quantum Interoperability 2025
+- Compatible con nodos IBM Quantum System Two
+
+---
+
+## Aplicaciones
+
+- Distribución cuántica de claves (QKD)
+- Entrelazamiento multipartito (EPR networks)
+- Certificación biométrica cuántica
+
