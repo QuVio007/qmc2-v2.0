@@ -1,0 +1,9 @@
+| Componente      | Especificación                            | Proveedor            | Cantidad | Código    |
+| --------------- | ----------------------------------------- | -------------------- | -------- | --------- |
+| Qubit (SiMOS)   | 28nm, 1.5GHz                              | GlobalFoundries      | 1,000    | GF-QU28   |
+| Quantum Dot     | InAs/GaAs, 65%@1550nm                     | Quandela             | 500      | QD1550    |
+| Interfaz RISC-V | 64-bit RV32IMAFD + Kyber-1024 accelerator | SiFive               | 200      | SF-KYB    |
+| Peltier TEC     | TEC1-12706, 1.2A                          | Laird Thermal        | 200      | TEC-12706 |
+| Hoja de Grafeno | Conductividad 5300 W/mK                   | Carbon Sciences Inc. | 100      | GRA-1M    |
+| Transceptor UWB | IEEE 802.15.4z, HRP 27–54Mbps             | Decawave             | 100      | DW3000    |
+| Batería         | QuantumScape QSE-5, 500Wh/kg              | QuantumScape         | 100      | QSE-5     |

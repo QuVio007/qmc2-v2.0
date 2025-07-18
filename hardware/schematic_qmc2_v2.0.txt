@@ -1,0 +1,37 @@
+# QMC-2 v2.0 - Esquemático funcional (texto plano)
+
+[CORE]
+- Núcleo de qubits SiMOS (28nm, spin qubits)
+- Conexión directa a Kyber-1024 accelerator
+- Termalización pasiva + IA predictiva
+
+[PHOTONIC SYSTEM]
+- Quantum Dots InAs/GaAs @1550nm
+- Red de interferometría integrada (PICs)
+- Control por pulsos ópticos síncronos
+
+[MEMORY]
+- Trampas iónicas 171Yb+ (Micro-Penning)
+- Codificación Surface Code d=7
+
+[SECURITY]
+- PUF cuántico (fingerprint criptográfico)
+- Entrelazamiento con nodo raíz en QUVIO Core
+
+[INTERFAZ]
+- RISC-V 64-bit
+- Módulo acelerador Kyber-1024 + XMSS
+- Transceptor UWB IEEE 802.15.4z
+
+[TÉRMICO]
+- Micro-Peltier TEC1-12706
+- Sensor dual térmico
+- AI LSTM controlado
+
+[ALIMENTACIÓN]
+- Batería QSE-5 (QuantumScape)
+- Sistema redundante con aislamiento EM
+
+[CAPA PROTECTORA]
+- Hoja de grafeno monocapa (5300 W/mK)
+- Jaula de Faraday encapsulada (MIL-STD-883H)
